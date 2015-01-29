@@ -1,0 +1,11 @@
+<material>
+  <description>Modulor</description>
+  <thumbnailPath>Sperrholz_32_Buche.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Sperrholz Buche</name>
+  <materialThicknesses>
+    <float>2.0</float>
+  </materialThicknesses>
+</material>

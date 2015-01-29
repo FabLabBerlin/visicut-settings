@@ -1,0 +1,11 @@
+<material>
+  <description>generated from Lasercutter-Wiki page</description>
+  <thumbnailPath>Leder_47_Leather_32__40_TEST_32_IT_33__41_.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Leder/Leather (TEST IT!)</name>
+  <materialThicknesses>
+    <float>3.0</float>
+  </materialThicknesses>
+</material>

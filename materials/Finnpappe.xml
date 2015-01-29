@@ -1,0 +1,10 @@
+<material>
+  <thumbnailPath>Finnpappe.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Finnpappe</name>
+  <materialThicknesses>
+    <float>3.0</float>
+  </materialThicknesses>
+</material>

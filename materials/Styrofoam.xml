@@ -1,0 +1,11 @@
+<material>
+  <thumbnailPath>Styrofoam.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Styrofoam</name>
+  <materialThicknesses>
+    <float>4.0</float>
+    <float>6.0</float>
+  </materialThicknesses>
+</material>

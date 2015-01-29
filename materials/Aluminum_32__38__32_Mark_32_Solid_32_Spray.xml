@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Aluminum &amp; Mark Solid Spray</name>
+  <materialThicknesses>
+    <float>0.01</float>
+  </materialThicknesses>
+</material>

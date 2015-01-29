@@ -1,0 +1,10 @@
+<material>
+  <thumbnailPath>overheadfolie.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>overheadfolie</name>
+  <materialThicknesses>
+    <float>0.1</float>
+  </materialThicknesses>
+</material>

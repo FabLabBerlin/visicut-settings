@@ -1,0 +1,12 @@
+<material>
+  <thumbnailPath>museumskarton.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>museumskarton</name>
+  <materialThicknesses>
+    <float>0.5</float>
+    <float>1.0</float>
+    <float>1.5</float>
+  </materialThicknesses>
+</material>

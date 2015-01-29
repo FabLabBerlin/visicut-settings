@@ -1,0 +1,11 @@
+<material>
+  <description>Teflon</description>
+  <thumbnailPath>Teflon.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Teflon</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

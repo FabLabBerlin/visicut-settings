@@ -1,0 +1,11 @@
+<material>
+  <description>Vivak</description>
+  <thumbnailPath>PET-G.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>PET-G</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

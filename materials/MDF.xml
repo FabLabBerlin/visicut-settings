@@ -1,0 +1,15 @@
+<material>
+  <description>generated from Lasercutter-Wiki page</description>
+  <thumbnailPath>MDF.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>MDF</name>
+  <materialThicknesses>
+    <float>1.5</float>
+    <float>2.0</float>
+    <float>3.0</float>
+    <float>4.0</float>
+    <float>5.0</float>
+  </materialThicknesses>
+</material>

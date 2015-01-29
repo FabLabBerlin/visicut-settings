@@ -1,0 +1,11 @@
+<material>
+  <description>L?sungsmittelbest?ndig</description>
+  <thumbnailPath>Stempel-_32_Lasergummi.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Stempel- Lasergummi</name>
+  <materialThicknesses>
+    <float>2.3</float>
+  </materialThicknesses>
+</material>

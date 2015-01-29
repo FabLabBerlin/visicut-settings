@@ -1,0 +1,12 @@
+<material>
+  <description>Styropor</description>
+  <thumbnailPath>Styropor.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Styropor</name>
+  <materialThicknesses>
+    <float>10.0</float>
+    <float>20.0</float>
+  </materialThicknesses>
+</material>

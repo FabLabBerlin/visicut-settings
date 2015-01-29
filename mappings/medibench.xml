@@ -1,0 +1,71 @@
+<com.t__oster.visicut.model.mapping.MappingSet serialization="custom">
+  <unserializable-parents/>
+  <linked-list>
+    <default/>
+    <int>2</int>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Group</attribute>
+            <value class="string">legs-a-mark</value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>mark</name>
+        <orderStrategy>NEAREST</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>1.0</width>
+      </b>
+    </mapping>
+    <mapping>
+      <a class="filters" serialization="custom">
+        <unserializable-parents/>
+        <linked-list>
+          <default/>
+          <int>1</int>
+          <filter>
+            <compare>false</compare>
+            <inverted>false</inverted>
+            <attribute>Group</attribute>
+            <value class="string">legs-a</value>
+          </filter>
+        </linked-list>
+        <filters>
+          <default>
+            <multiselectEnabled>false</multiselectEnabled>
+          </default>
+        </filters>
+      </a>
+      <b class="vectorProfile">
+        <DPI>500.0</DPI>
+        <description>Cut through the material</description>
+        <name>cut</name>
+        <orderStrategy>FILE</orderStrategy>
+        <useOutline>false</useOutline>
+        <isCut>true</isCut>
+        <width>0.5</width>
+      </b>
+    </mapping>
+  </linked-list>
+  <com.t__oster.visicut.model.mapping.MappingSet>
+    <default>
+      <description>A new created mapping</description>
+      <name>medibench</name>
+    </default>
+  </com.t__oster.visicut.model.mapping.MappingSet>
+</com.t__oster.visicut.model.mapping.MappingSet>
