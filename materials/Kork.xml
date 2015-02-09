@@ -1,9 +1,9 @@
 <material>
   <description>Korkplatten</description>
   <thumbnailPath>Kork.png</thumbnailPath>
-  <engraveColor>#000000</engraveColor>
-  <cutColor>#ff0000</cutColor>
-  <color>#996600</color>
+  <engraveColor>#ffff00</engraveColor>
+  <cutColor>#66ffff</cutColor>
+  <color>#ffffff</color>
   <name>Kork</name>
   <materialThicknesses>
     <float>2.0</float>

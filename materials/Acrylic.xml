@@ -5,13 +5,12 @@
   <color>#ffffff</color>
   <name>Acrylic</name>
   <materialThicknesses>
-    <float>0.5</float>
     <float>1.0</float>
     <float>2.0</float>
     <float>3.0</float>
+    <float>4.0</float>
     <float>5.0</float>
     <float>6.0</float>
     <float>8.0</float>
-    <float>10.0</float>
   </materialThicknesses>
 </material>

@@ -1,0 +1,11 @@
+<material>
+  <thumbnailPath>Bristolkarton.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Bristolkarton</name>
+  <materialThicknesses>
+    <float>0.5</float>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

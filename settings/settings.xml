@@ -1,21 +1,28 @@
 <visicutPreferences>
+  <defaultMapping>alles cut</defaultMapping>
   <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
   <windowBounds>
-    <x>70</x>
-    <y>6</y>
-    <width>1460</width>
-    <height>849</height>
+    <x>521</x>
+    <y>383</y>
+    <width>1472</width>
+    <height>802</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>B:\wolf-auf-465\spaceman\2015-01-16-production-files\seat-3-engravetest.svg</string>
-    <string>B:\wolf-auf-465\spaceman\2015-01-16-production-files\legs-a-engravetest.svg</string>
-    <string>B:\wolf-auf-465\spaceman\2015-01-16-production-files\seat-3 [Converted].svg</string>
-    <string>B:\wolf-auf-465\spaceman\2015-01-16-production-files\seat-mitte [Converted].svg</string>
-    <string>B:\wolf-auf-465\spaceman\2015-01-16-production-files\seat-1 [Converted].svg</string>
+    <string>/Users/nicolai/.visicut/examples/Anker.svg</string>
+    <string>/Users/nicolai/.visicut/examples/20mm_rectangle.svg</string>
+    <string>/Users/nicolai/.visicut/examples/20mm_circle.svg</string>
+    <string>/Users/nicolai/.visicut/examples/Text_Makers Unite.svg</string>
+    <string>/Users/nicolai/.visicut/examples/Marilyn.jpg</string>
   </recentFiles>
-  <lastMaterial>Sperrholz Birke</lastMaterial>
+  <lastMaterial>Bristolkarton</lastMaterial>
   <lastLaserDevice>zing</lastLaserDevice>
-  <availableImporters/>
+  <availableImporters>
+    <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>
+    <string>com.t_oster.visicut.model.graphicelements.jpgpngsupport.JPGPNGImporter</string>
+    <string>com.t_oster.visicut.model.graphicelements.dxfsupport.DXFImporter</string>
+    <string>com.t_oster.visicut.model.graphicelements.epssupport.EPSImporter</string>
+  </availableImporters>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
 </visicutPreferences>

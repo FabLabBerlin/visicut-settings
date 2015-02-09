@@ -1,0 +1,10 @@
+<material>
+  <thumbnailPath>Plakatkarton.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Plakatkarton</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

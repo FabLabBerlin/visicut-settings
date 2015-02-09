@@ -4,7 +4,7 @@ Please:
 -Close the lid
 -Turn on the Ventilation
 -And press &apos;start&apos; on the Lasercutter $name</jobSentText>
-  <jobPrefix>WOLF</jobPrefix>
+  <jobPrefix>VAL</jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.EpilogZing">
     <hostname>192.168.103.002</hostname>
     <port>515</port>
@@ -12,5 +12,6 @@ Please:
     <bedWidth>600.0</bedWidth>
     <bedHeight>300.0</bedHeight>
   </laserCutter>
+  <thumbnailPath>zing.png</thumbnailPath>
   <name>zing</name>
 </laserDevice>

@@ -6,7 +6,8 @@
   <color>#ffffff</color>
   <name>Sperrholz Birke</name>
   <materialThicknesses>
-    <float>1.5</float>
+    <float>1.0</float>
+    <float>2.0</float>
     <float>3.0</float>
     <float>4.0</float>
     <float>5.0</float>
