@@ -6,7 +6,7 @@ Please:
 -And press &apos;start&apos; on the Lasercutter $name</jobSentText>
   <jobPrefix>VAL</jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.EpilogZing">
-    <hostname>192.168.103.002</hostname>
+    <hostname>10.42.185.200</hostname>
     <port>515</port>
     <autofocus>false</autofocus>
     <bedWidth>600.0</bedWidth>
